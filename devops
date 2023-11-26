@@ -3,3 +3,5 @@ git
 jenkins 
 dockers
 kubernets and linux and terraform
+s3 vpc ec32
+cloud watch & cloud trail
